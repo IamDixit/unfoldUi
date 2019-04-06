@@ -1,0 +1,19 @@
+{
+  "name": "unfoldui",
+  "version": "0.0.1",
+  "description": "CI CD workshop project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamDixit/unfoldUi.git"
+  },
+  "author": "Abhishek Dixit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamDixit/unfoldUi/issues"
+  },
+  "homepage": "https://github.com/IamDixit/unfoldUi#readme"
+}
